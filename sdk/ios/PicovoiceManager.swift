@@ -8,8 +8,8 @@
 //
 
 import ios_voice_processor
-import Rhino
-import Porcupine
+import rhino
+import porcupine
 
 
 /// High-level iOS binding for Picovoice end-to-end platform. It handles recording audio from microphone, processes it in real-time using Picovoice, and notifies the

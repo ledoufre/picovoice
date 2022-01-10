@@ -5,3 +5,8 @@ demo/respeaker-rpi0/picovoice_demo_mic
 __pycache__
 build
 demo/c/cmake-build-debug
+
+# SPM
+Package.resolved
+.build
+

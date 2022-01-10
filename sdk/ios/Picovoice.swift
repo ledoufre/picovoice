@@ -8,8 +8,8 @@
 //
 
 import AVFoundation
-import Porcupine
-import Rhino
+import porcupine
+import rhino
 
 /// Low-level iOS binding for Picovoice end-to-end platform.
 /// Client passes in audio data and is notified upon detection of the wake word or completion of in voice command inference.
